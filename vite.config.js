@@ -24,6 +24,10 @@ export default defineConfig({
         
     ],
     resolve: {
+        alias: {
+            '@': fileURLToPath(new URL('./resources', import.meta.url)),
+            '@public': fileURLToPath(new URL('./public', import.meta.url))
+        },
         extensions: ['.vue', '.js']
     }
 });
