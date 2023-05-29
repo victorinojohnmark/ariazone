@@ -40,7 +40,7 @@
                         <a href="#">
                             <img src="/img/featured_category_property.jpg" alt="" class="w-full">
                             <div class="absolute top-0 h-full w-full bg-gradient-to-t from-gray-950 to-transparent"></div>
-                            <div class="absolute bottom-0 z-20 px-6 py-4 ">
+                            <div class="absolute bottom-0 z-10 px-6 py-4 ">
                                 <span id="categoryTitle" class=" text-xl text-white font-medium">Properties</span>
                                 <p class="text-white">100,000+ listings</p>
                             </div>
@@ -51,7 +51,7 @@
                         <a href="#">
                             <img src="/img/featured_category_car.jpg" alt="" class="w-full">
                             <div class="absolute top-0 h-full w-full bg-gradient-to-t from-gray-950 to-transparent"></div>
-                            <div class="absolute flex flex-col bottom-0 z-20 px-6 py-4 ">
+                            <div class="absolute flex flex-col bottom-0 z-10 px-6 py-4 ">
                                 <div class=" float-left w-px h-0 -ml-px" style="padding-top: 100%;"></div>
                                 <span id="categoryTitle" class=" text-xl text-white font-medium">Autos</span>
                                 <p class="text-white">100,000+ listings</p>
@@ -63,7 +63,7 @@
                         <a href="#">
                             <img src="/img/featured_category_phone.jpg" alt="" class="w-full">
                             <div class="absolute top-0 h-full w-full bg-gradient-to-t from-gray-950 to-transparent"></div>
-                            <div class="absolute flex flex-col bottom-0 z-20 px-6 py-4 ">
+                            <div class="absolute flex flex-col bottom-0 z-10 px-6 py-4 ">
                                 <div class=" float-left w-px h-0 -ml-px" style="padding-top: 100%;"></div>
                                 <span id="categoryTitle" class=" text-xl text-white font-medium">Gadgets</span>
                                 <p class="text-white">100,000+ listings</p>
@@ -75,7 +75,7 @@
                         <a href="#">
                             <img src="/img/featured_category_fashion_women.jpg" alt="" class="w-full">
                             <div class="absolute top-0 h-full w-full bg-gradient-to-t from-gray-950 to-transparent"></div>
-                            <div class="absolute flex flex-col bottom-0 z-20 px-6 py-4 ">
+                            <div class="absolute flex flex-col bottom-0 z-10 px-6 py-4 ">
                                 <div class=" float-left w-px h-0 -ml-px" style="padding-top: 100%;"></div>
                                 <span id="categoryTitle" class=" text-xl text-white font-medium">Women's Fashion</span>
                                 <p class="text-white">100,000+ listings</p>
@@ -87,7 +87,7 @@
                         <a href="#">
                             <img src="/img/featured_category_fashion_men.jpg" alt="" class="w-full">
                             <div class="absolute top-0 h-full w-full bg-gradient-to-t from-gray-950 to-transparent"></div>
-                            <div class="absolute flex flex-col bottom-0 z-20 px-6 py-4 ">
+                            <div class="absolute flex flex-col bottom-0 z-10 px-6 py-4 ">
                                 <div class=" float-left w-px h-0 -ml-px" style="padding-top: 100%;"></div>
                                 <span id="categoryTitle" class=" text-xl text-white font-medium">Men's Fashion</span>
                                 <p class="text-white">100,000+ listings</p>
@@ -135,7 +135,7 @@
                         <a href="#">
                             <img src="/img/featured_category_property.jpg" alt="" class="w-full">
                             <div class="absolute top-0 h-full w-full bg-gradient-to-t from-gray-950 to-transparent"></div>
-                            <div class="absolute bottom-0 z-20 px-6 py-4 ">
+                            <div class="absolute bottom-0 z-10 px-6 py-4 ">
                                 <span id="categoryTitle" class=" text-xl text-white font-medium">Properties</span>
                                 <p class="text-white">100,000+ listings</p>
                             </div>
@@ -146,7 +146,7 @@
                         <a href="#">
                             <img src="/img/featured_category_car.jpg" alt="" class="w-full">
                             <div class="absolute top-0 h-full w-full bg-gradient-to-t from-gray-950 to-transparent"></div>
-                            <div class="absolute flex flex-col bottom-0 z-20 px-6 py-4 ">
+                            <div class="absolute flex flex-col bottom-0 z-10 px-6 py-4 ">
                                 <div class=" float-left w-px h-0 -ml-px" style="padding-top: 100%;"></div>
                                 <span id="categoryTitle" class=" text-xl text-white font-medium">Autos</span>
                                 <p class="text-white">100,000+ listings</p>
@@ -158,7 +158,7 @@
                         <a href="#">
                             <img src="/img/featured_category_phone.jpg" alt="" class="w-full">
                             <div class="absolute top-0 h-full w-full bg-gradient-to-t from-gray-950 to-transparent"></div>
-                            <div class="absolute flex flex-col bottom-0 z-20 px-6 py-4 ">
+                            <div class="absolute flex flex-col bottom-0 z-10 px-6 py-4 ">
                                 <div class=" float-left w-px h-0 -ml-px" style="padding-top: 100%;"></div>
                                 <span id="categoryTitle" class=" text-xl text-white font-medium">Gadgets</span>
                                 <p class="text-white">100,000+ listings</p>
@@ -170,7 +170,7 @@
                         <a href="#">
                             <img src="/img/featured_category_fashion_women.jpg" alt="" class="w-full">
                             <div class="absolute top-0 h-full w-full bg-gradient-to-t from-gray-950 to-transparent"></div>
-                            <div class="absolute flex flex-col bottom-0 z-20 px-6 py-4 ">
+                            <div class="absolute flex flex-col bottom-0 z-10 px-6 py-4 ">
                                 <div class=" float-left w-px h-0 -ml-px" style="padding-top: 100%;"></div>
                                 <span id="categoryTitle" class=" text-xl text-white font-medium">Women's Fashion</span>
                                 <p class="text-white">100,000+ listings</p>
@@ -182,7 +182,7 @@
                         <a href="#">
                             <img src="/img/featured_category_fashion_men.jpg" alt="" class="w-full">
                             <div class="absolute top-0 h-full w-full bg-gradient-to-t from-gray-950 to-transparent"></div>
-                            <div class="absolute flex flex-col bottom-0 z-20 px-6 py-4 ">
+                            <div class="absolute flex flex-col bottom-0 z-10 px-6 py-4 ">
                                 <div class=" float-left w-px h-0 -ml-px" style="padding-top: 100%;"></div>
                                 <span id="categoryTitle" class=" text-xl text-white font-medium">Men's Fashion</span>
                                 <p class="text-white">100,000+ listings</p>

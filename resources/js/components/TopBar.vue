@@ -24,7 +24,7 @@
                         <a href="#">
                             <img class="w-48" src="/img/logo1.png" alt="Ariazone Logo">
                         </a>
-                        <Bars3Icon class="w-6 h-6 text-white hover:text-yellow-400" />
+                        <Bars3Icon class="w-6 h-6 text-white hover:text-yellow-400 cursor-pointer" @click="emit('toggleSidebBarMenu')"/>
                     </div>
                     <div id="rightMenu" class="flex p-2 ">
                         <div class="inline-flex gap-x-4">
@@ -47,4 +47,6 @@
 
 <script setup>
 import {Bars3Icon, UserPlusIcon, ArrowLeftOnRectangleIcon} from '@heroicons/vue/24/outline'
+
+const emit = defineEmits(['toggleSidebBarMenu'])
 </script>
