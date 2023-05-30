@@ -1,10 +1,10 @@
 <template>
-    <div id="mainWrapper">
+    <div id="mainWrapper" class="flex-grow">
         <TopBar @toggleSidebBarMenu="toggleSideBar = true"/>
         <SideBar :toggleSideBar="toggleSideBar" @closeSideBar="toggleSideBar = false"/>
         <router-view />
-        <Footer/>
     </div>
+    <Footer/>
 </template>
 
 <script setup>

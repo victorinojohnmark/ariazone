@@ -8,7 +8,7 @@
     @vite('resources/css/app.css')
 </head>
 <body>
-    <div id="app"></div>
+    <div id="app" class="flex flex-col" style="min-height: 100vh;"></div>
     @vite('resources/js/app.js')
 </body>
 </html>

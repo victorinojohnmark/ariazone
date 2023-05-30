@@ -1,5 +1,5 @@
 <template>
-    <div class="w-full bg-gray-800">
+    <div class="w-full bg-gray-800 mt-auto">
         <div class="container flex flex-col sm:flex-row gap-x-4 pt-8 px-4 md:px-0 mx-auto">
             <div class="w-full mb-4">
                 <h5 class="uppercase text-lg font-medium text-white mb-4">Useful Links</h5>
